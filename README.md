@@ -1,2 +1,2 @@
 # dwm_deploy
-Deploy my dwm config with a script
+My DWM fork with several other config files. 
